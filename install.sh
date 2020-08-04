@@ -20,6 +20,8 @@ chown www.www -R /var/log/nginx/cache
 \cp default.conf  /usr/local/openresty/nginx/conf.d/
 mkdir -p /usr/local/openresty/nginx/conf/waf/
 \cp -r * /usr/local/openresty/nginx/conf/waf/
+ln -snf /usr/local/openresty/lualib/resty /usr/local/openresty/nginx/conf/waf/resty
+
 if [ $? -eq 0 ];then
 echo "*** Install successfully, start it with \"systemctl start openresty\""
 else

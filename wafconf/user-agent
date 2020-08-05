@@ -1,1 +1,15 @@
-(HTTrack|harvest|audit|dirbuster|pangolin|nmap|sqln|-scan|hydra|Parser|libwww|BBBike|sqlmap|w3af|owasp|Nikto|fimap|havij|PycURL|zmeu|BabyKrokodil|netsparker|httperf|bench| SF/)
+(spider|bot|wget|curl)
+(YisouSpider|ApacheBench|WebBench|bench|Jmeter|JoeDog|Havij|GetRight|TurnitinBot|GrabNet|masscan|mail2000|github|Java|python)
+(HTTrack|harvest|audit|dirbuster|pangolin|nmap|sqln|-scan|hydra|Parser|libwww|BBBike|sqlmap|w3af|owasp|Nikto|fimap|havij|PycURL|zmeu|BabyKrokodil|netsparker|httperf| SF/)
+Go-Ahead-Got-It
+GetWeb!
+Go!Zilla
+Download Demon
+Indy Library
+libwww-perl
+Nmap Scripting Engine
+~17ce.com
+WebBench*
+ApacheBench*
+xsshs.cn
+17ce.com

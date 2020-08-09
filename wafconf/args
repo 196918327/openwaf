@@ -47,4 +47,4 @@ b(lipitor|phentermin|pro[sz]ac|sandyauer|tramadol|troyhamby)b
 (\/\.+)
 [;'<>].*
 (\.+\/)
-#(insert|select|delete|update|count|master|truncate|declare|exec|\*|\')(.*)$
+(insert|select|delete|update|master|truncate|declare|exec|\*|\')(.*)$

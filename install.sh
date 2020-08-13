@@ -13,7 +13,7 @@ yum install -y openresty
 }
 function setopenresty () {
 mkdir -p $DIR/nginx/conf.d/
-mkdir -p /var/log/nginx/cache
+mkdir -p /var/log/nginx
 chown nobody.nobody -R /var/log/nginx
 \cp -b nginx.conf  $DIR/nginx/conf/
 if [ ! -f $DIR/nginx/conf.d/default.conf ];then

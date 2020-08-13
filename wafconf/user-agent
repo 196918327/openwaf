@@ -1,15 +1,6 @@
-(spider|bot|wget|curl)
-(YisouSpider|ApacheBench|WebBench|bench|Jmeter|JoeDog|Havij|GetRight|TurnitinBot|GrabNet|masscan|mail2000|github|Java|python)
+(curl|wget)
+(ApacheBench|WebBench|bench|Jmeter|JoeDog|Havij|GetRight|TurnitinBot|GrabNet|masscan|mail2000|github|python)
 (HTTrack|harvest|audit|dirbuster|pangolin|nmap|sqln|-scan|hydra|Parser|libwww|BBBike|sqlmap|w3af|owasp|Nikto|fimap|havij|PycURL|zmeu|BabyKrokodil|netsparker|httperf| SF/)
-Go-Ahead-Got-It
-GetWeb!
-Go!Zilla
-Download Demon
-Indy Library
-libwww-perl
-Nmap Scripting Engine
-~17ce.com
-WebBench*
-ApacheBench*
-xsshs.cn
-17ce.com
+(Go-Ahead-Got-It|GetWeb!|Go!Zilla|Download Demon|Indy Library|libwww-perl|Nmap Scripting Engine|xsshs.cn|17ce.com)
+(SemrushBot|FeedDemon|CrawlDaddy|Jullo|Feedly|UniversalFeedParser|Swiftbot|YandexBot|AhrefsBot|jikeSpider|MJ12bot|WinHttp|EasouSpider|Microsoft URL Control|YYSpider|jaunty|oBot|FlightDeckReports Bot|Linguee Bot)
+#(spider|bot|java)

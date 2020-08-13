@@ -19,6 +19,7 @@ chown nobody.nobody -R /var/log/nginx
 if [ ! -f $DIR/nginx/conf.d/default.conf ];then
 cp default.conf  $DIR/nginx/conf.d/
 else
+cp default.conf  $DIR/nginx/conf.d/default.conf.example
 fi
 mkdir -p $DIR/nginx/conf/waf/
 \cp -r * $DIR/nginx/conf/waf/
